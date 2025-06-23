@@ -21,8 +21,8 @@ from pytz import timezone
 TRANSMISSION_HOST = "localhost"
 TRANSMISSION_PORT = 9091
 TRANSMISSION_PATH = '/transmission/rpc/'
-TRANSMISSION_USER = "transmission"  # Change if needed
-TRANSMISSION_PASSWORD = "atm3ns13"  # Change if needed
+TRANSMISSION_USER = ""  # Change if needed
+TRANSMISSION_PASSWORD = ""  # Change if needed
 HISTORY_FILE = ".transmission_shell_history"
 RSS_FEED_FILE = "rss_feeds.txt"  # File containing RSS feed URLs
 SEEN_TORRENTS_FILE = ".rss_seen"  # Stores previously added torrents
